@@ -1,0 +1,93 @@
+[
+
+{
+	"exh_id": "0000",
+	"exh_title": "Ваза для фруктов",
+	"prod_material": "стекло",
+	"photos": [
+		"./photos_for_tests/IMG_20260919_100203.jpg",
+		"./photos_for_tests/IMG_20260919_100255.jpg",
+		"./photos_for_tests/IMG_20260919_104027.jpg",
+		"./photos_for_tests/IMG_20260919_104016.jpg"
+	]
+},
+
+{
+	"exh_id": "0001",
+	"exh_title": "Крынка с дыркой",
+	"prod_material": "глина, глазурь",
+	"photos": [
+		"./photos_for_tests/IMG_20260919_100247.jpg",
+		"./photos_for_tests/IMG_20260919_104021.jpg",
+		"./photos_for_tests/IMG_20260919_104044.jpg"
+	]
+},
+
+{
+	"exh_id": "0002",
+	"exh_title": "Сосуд с орнаментом",
+	"prod_material": "глина",
+	"photos": [
+		"./photos_for_tests/IMG_20260920_08025.jpg",
+		"./photos_for_tests/IMG_20260920_08031.jpg",
+		"./photos_for_tests/IMG_20260920_08034.jpg",
+		"./photos_for_tests/IMG_20260920_08040.jpg",
+		"./photos_for_tests/IMG_20260920_08041.jpg"
+	]
+},
+
+{
+	"exh_id": "0003",
+	"exh_title": "Чёски для шерсти",
+	"prod_material": "дерево, металл",
+	"photos": [
+		"./photos_for_tests/IIMG_20260920_080628.jpg",  
+		"./photos_for_tests/IMG_20260920_080643.jpg",
+		"./photos_for_tests/IMG_20260920_080657.jpg"
+	]
+	
+},
+
+{
+	"exh_id": "0004",
+	"exh_title": "Ваза для цветов",
+	"prod_material": "стекло",
+	"photos": [
+		"./photos_for_tests/IMG_20260920_080742.jpg",
+		"./photos_for_tests/IMG_20260920_080903.jpg",
+  		"./photos_for_tests/IMG_20260920_080930.jpg",
+		"./photos_for_tests/IMG_20260920_080846.jpg",  
+		"./photos_for_tests/IMG_20260920_080917.jpg"
+	]
+},
+
+{
+	"exh_id": "0005",
+	"exh_title": "Кивот с одной иконой",
+	"prod_material": "стекло, дерево, бумага, краски",
+	"photos": [
+
+		"./photos_for_tests/IMG_20260920_081029.jpg",
+		"./photos_for_tests/IMG_20260920_081035.jpg",
+		"./photos_for_tests/IMG_20260920_081044.jpg",
+		"./photos_for_tests/IMG_20260920_081057.jpg",
+		"./photos_for_tests/IMG_20260920_081118.jpg",
+		"./photos_for_tests/IMG_20260920_081147.jpg",
+		"./photos_for_tests/IMG_20260920_081158.jpg"
+	]
+},
+
+{
+	"exh_id": "0006",
+	"exh_title": "Кивот с двумя иконами",
+	"prod_material": "стекло, дерево, бумага, краски",
+	"photos": [
+		"./photos_for_tests/IMG_20260920_081320.jpg",
+		"./photos_for_tests/IMG_20260920_081330.jpg",
+		"./photos_for_tests/IMG_20260920_081339.jpg",
+		"./photos_for_tests/IMG_20260920_081355.jpg"
+	]
+}
+
+]
+
